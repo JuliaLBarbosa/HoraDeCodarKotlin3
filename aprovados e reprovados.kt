@@ -20,7 +20,7 @@ fun main(){
             alunoReprovado++
         }
 
-        println("Você deseja calcumar a nota de outro aluno Sim/Não? ")
+        println("Você deseja calcular a nota de outro aluno Sim/Não? ")
         resposta = readln()
     }
     println("Quantidade de alunos aprovados " + alunoAprovado)
